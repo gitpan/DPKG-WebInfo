@@ -1,0 +1,8 @@
+Revision history for Perl extension DPKG::WebInfo.
+
+0.01  Tue Jul 18 23:36:31 2006
+	- original version; created by h2xs 1.23 with options
+		-AXc -n DPKG::WebInfo
+        - first version shipped, first CPAN module, first OO program
+          added new features over the old procedural program and
+          wrote an example HTML::Template template in webpage
